@@ -65,8 +65,10 @@
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
@@ -93,7 +95,7 @@
 			<Item Name="File_Module Control.ctl" Type="VI" URL="../FILE/File_Module Control.ctl"/>
 			<Item Name="File_Module.vi" Type="VI" URL="../FILE/File_Module.vi"/>
 			<Item Name="findMostRecentFile.vi" Type="VI" URL="../FOTOS/findMostRecentFile.vi"/>
-			<Item Name="FOTOS.vi" Type="VI" URL="../FOTOS.vi"/>
+			<Item Name="FOTOS.vi" Type="VI" URL="../FOTOS/FOTOS.vi"/>
 			<Item Name="IKA_Eurostar60.ctl" Type="VI" URL="../IKA_EUROSTAR 60/IKA_Eurostar60.ctl"/>
 			<Item Name="IKA_Eurostar60.vi" Type="VI" URL="../IKA_EUROSTAR 60/IKA_Eurostar60.vi"/>
 			<Item Name="jpg to pic.vi" Type="VI" URL="../FOTOS/jpg to pic.vi"/>
@@ -115,7 +117,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8369B5F4-8FB9-4C42-9A0C-9CBFE47DC405}</Property>
-				<Property Name="Bld_version.build" Type="Int">53</Property>
+				<Property Name="Bld_version.build" Type="Int">54</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CRISTALIZADOR.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/NI_AB_PROJECTNAME.exe</Property>
@@ -155,7 +157,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8F262457-3FEB-42E3-960A-EF8870CEA9DE}</Property>
-				<Property Name="Bld_version.build" Type="Int">53</Property>
+				<Property Name="Bld_version.build" Type="Int">54</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">IKA_Eurostar60.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/IKA_Eurostar60.exe</Property>
@@ -198,7 +200,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7CAD629D-3445-42E3-8E94-8CB2C6FA2181}</Property>
-				<Property Name="Bld_version.build" Type="Int">54</Property>
+				<Property Name="Bld_version.build" Type="Int">55</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ShowAllPhotos_A.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/ShowAllPhotos_A.exe</Property>
@@ -244,7 +246,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A40F41DB-DE72-430A-96F2-B25A107043DB}</Property>
-				<Property Name="Bld_version.build" Type="Int">56</Property>
+				<Property Name="Bld_version.build" Type="Int">57</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ShowAllPhotos_B.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/ShowAllPhotos_B.exe</Property>
@@ -287,7 +289,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9E432D25-E208-4A68-ACA5-4B1BCCAA949C}</Property>
-				<Property Name="Bld_version.build" Type="Int">53</Property>
+				<Property Name="Bld_version.build" Type="Int">54</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ShowLastPhoto.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/ShowLastPhoto.exe</Property>
