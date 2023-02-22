@@ -103,24 +103,24 @@
 			<Item Name="Timing_Module Control.ctl" Type="VI" URL="../TIMING/Timing_Module Control.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="CRISTALIZADOR" Type="EXE">
+			<Item Name="CRISTALIZADOR_v2p1" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{952EA5B9-D702-41A1-8FC1-795C1D20CCF0}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{F372A909-371E-4906-8FA4-8307863021CF}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{9020D282-4C40-4071-89BD-8DDFF70A7296}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">CRISTALIZADOR</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">CRISTALIZADOR_v2p1</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8369B5F4-8FB9-4C42-9A0C-9CBFE47DC405}</Property>
-				<Property Name="Bld_version.build" Type="Int">54</Property>
+				<Property Name="Bld_version.build" Type="Int">55</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">CRISTALIZADOR.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/NI_AB_PROJECTNAME.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">CRISTALIZADOR_v2p1.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/CRISTALIZADOR_v2p1.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -128,7 +128,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/BUILDS/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DEDDAE2C-DB25-49E4-9042-19CB312719D8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9C47D8AE-6BA6-47DA-BA40-C9C07BB2B019}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/CRISTALIZADOR.vi</Property>
@@ -136,12 +136,12 @@
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universidad de Zaragoza</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">CRISTALIZADOR</Property>
-				<Property Name="TgtF_internalName" Type="Str">CRISTALIZADOR</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">CRISTALIZADOR_v2p1</Property>
+				<Property Name="TgtF_internalName" Type="Str">CRISTALIZADOR_v2p1</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Universidad de Zaragoza</Property>
-				<Property Name="TgtF_productName" Type="Str">CRISTALIZADOR</Property>
+				<Property Name="TgtF_productName" Type="Str">CRISTALIZADOR_v2p1</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{889D2A19-F7C6-44CF-A83A-8DB8728851EF}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CRISTALIZADOR.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CRISTALIZADOR_v2p1.exe</Property>
 			</Item>
 			<Item Name="IKA_Eurostar60" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
