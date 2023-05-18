@@ -104,24 +104,24 @@
 			<Item Name="Timing_Module Control.ctl" Type="VI" URL="../TIMING/Timing_Module Control.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="CRISTALIZADOR_v3p1" Type="EXE">
+			<Item Name="CRISTALIZADOR_v3p2" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{952EA5B9-D702-41A1-8FC1-795C1D20CCF0}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{F372A909-371E-4906-8FA4-8307863021CF}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{9020D282-4C40-4071-89BD-8DDFF70A7296}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">CRISTALIZADOR_v3p1</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">CRISTALIZADOR_v3p2</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/BUILDS</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8369B5F4-8FB9-4C42-9A0C-9CBFE47DC405}</Property>
-				<Property Name="Bld_version.build" Type="Int">60</Property>
+				<Property Name="Bld_version.build" Type="Int">61</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">CRISTALIZADOR_v3p1.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/CRISTALIZADOR_v3p1.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">CRISTALIZADOR_v3p2.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/BUILDS/CRISTALIZADOR_v3p2.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -129,7 +129,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/BUILDS/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A455D2D8-4E23-4717-9BF6-5C9668114215}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C53908E0-CF82-44BF-92CB-D4E34C9B61B2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/CRISTALIZADOR.vi</Property>
@@ -137,12 +137,12 @@
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universidad de Zaragoza</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">CRISTALIZADOR_v3p1</Property>
-				<Property Name="TgtF_internalName" Type="Str">CRISTALIZADOR_v3p1</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">CRISTALIZADOR_v3p2</Property>
+				<Property Name="TgtF_internalName" Type="Str">CRISTALIZADOR_v3p2</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 Universidad de Zaragoza</Property>
-				<Property Name="TgtF_productName" Type="Str">CRISTALIZADOR_v3p1</Property>
+				<Property Name="TgtF_productName" Type="Str">CRISTALIZADOR_v3p2</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{889D2A19-F7C6-44CF-A83A-8DB8728851EF}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CRISTALIZADOR_v3p1.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CRISTALIZADOR_v3p2.exe</Property>
 			</Item>
 			<Item Name="IKA_Eurostar60" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
