@@ -3,10 +3,10 @@ from datetime import datetime
 import time, sys
 
 # lectura de argumentos. [0] es el nombre de este programa 
-espera1 = int(sys.argv[1])
-durante1 = int(sys.argv[2])
-espera2 = int(sys.argv[3])
-durante2 = int(sys.argv[4])
+espera1 = float(sys.argv[1])
+durante1 = float(sys.argv[2])
+espera2 = float(sys.argv[3])
+durante2 = float(sys.argv[4])
 
 """
 print('frecuencia1: ' + str(espera1))
